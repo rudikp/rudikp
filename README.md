@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @rudikp
-- 👀 I’m interested in Software Quality Assurance
-- 🌱 I’m currently learning Automated Testing
-- 💞️ I’m looking to collaborate on Automated Testing and Manual Testing
-- 📫 How to reach me  email : jobs.rudikp@gmail.com
-
-
 <!---
 rudikp/rudikp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,15 +11,15 @@ Currently working as QA, Have knowledge to create web automation using Selenium 
 ## 📈Stats
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working as QA Manual</br>
+    - 🔭 I’m currently working as QA Manual and Learning QA Automation</br>
     - 📫 How to reach me: <a href="mailto:jobs.rudikp@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
 <p align="left">
 <a href="https://github.com/rudikp">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wisnuwm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wisnuwm&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rudikp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rudikp&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
