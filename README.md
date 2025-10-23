@@ -17,8 +17,8 @@
 
 ---
 
-## 🧩 Featured Projects
-🔹 [**Selenium QA Advanced**](https://github.com/rudikp/selenium-qa-advanced) – UI + API testing with Mocha/Chai & Allure  
+## 🧩 Portfolio
+🔹 [**Selenium**](https://github.com/rudikp/portfolio-selenium) – Selenium + JS Framework with Mocha/Chai  
 🔹 [**Cypress QA Advanced**](https://github.com/rudikp/cypress-qa-advanced) – Modern web testing setup with Mochawesome  
 🔹 [**Playwright QA Advanced**](https://github.com/rudikp/playwright-qa-advanced) – End-to-end tests with trace & HTML report  
 
