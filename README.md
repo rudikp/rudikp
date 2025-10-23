@@ -7,13 +7,12 @@
 ---
 
 ## 🚀 Tech Stack
-- **Automation Tools:** Selenium, Cypress, Playwright  
-- **Languages:** JavaScript, TypeScript, Java  
-- **Frameworks:** Mocha, Chai, Jest, Allure Reports  
-- **API Testing:** Postman, Apidog, JMeter  
-- **CI/CD:** GitHub Actions, Jenkins  
+- **Automation Tools:** Selenium, Cypress  
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks:** Mocha, Chai
+- **API Testing:** Postman, Apidog, JMeter 
 - **Version Control:** Git, GitHub  
-- **Others:** VSCode, Docker, Linux
+- **Others:** VSCode
 
 ---
 
