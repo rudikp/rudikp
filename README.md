@@ -25,9 +25,9 @@ The project focuses on:
 - Maintainable test structure
 - Business logic assertions
 
-[View Project](https://github.com/rudikp/playwright-qa-automation-portfolio)
-[View Project](https://github.com/rudikp/portfolio-cypress.git)
-[View Project](https://github.com/rudikp/portfolio-selenium.git)
+[Plyawright](https://github.com/rudikp/playwright-qa-automation-portfolio)
+[Cypress](https://github.com/rudikp/portfolio-cypress.git)
+[Selenium](https://github.com/rudikp/portfolio-selenium.git)
 
 ## Connect
 
