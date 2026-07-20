@@ -1,41 +1,34 @@
-# 👋 Hi, I'm Rudi Kurnia
+# Rudi Kurnia Putra
 
-💼 **Quality Assurance Engineer** (Manual & Automation)  
-🔧 Specialized in **Selenium**, **Cypress**, **Playwright**, and **API Testing**  
-💻 Passionate about building clean, maintainable automation frameworks.
+Quality Assurance Engineer with 10 years of experience in software testing.
 
----
+Currently focused on building practical test automation skills with Playwright and TypeScript.
 
-## 🚀 Tech Stack
-- **Automation Tools:** Selenium, Cypress  
-- **Languages:** JavaScript, TypeScript  
-- **Frameworks:** Mocha, Chai
-- **API Testing:** Postman, Apidog, JMeter 
-- **Version Control:** Git, GitHub  
-- **Others:** VSCode
+## Current Focus
 
----
+- UI Test Automation
+- Playwright
+- TypeScript
+- Test Automation Framework Design
+- Business Logic Testing
 
-## 🧩 Portfolio
-🔹 [**Selenium**](https://github.com/rudikp/portfolio-selenium) – Selenium + JS Framework with Mocha/Chai
+## Featured Project
 
----
+### Playwright QA Automation Portfolio
 
-## 🧠 About Me
-🌱 Currently improving automation coverage in end-to-end regression  
-💬 Love mentoring manual QAs who want to start automation  
-📸 Also an Adobe Stock & iStock contributor  
-📍 Based in Indonesia 🇮🇩
+A practical UI test automation project built with Playwright and TypeScript.
 
----
+The project focuses on:
 
-## 📈 GitHub Stats
-![Rudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudikp&show_icons=true&theme=tokyonight)
+- Page Object Model
+- End-to-end UI testing
+- Maintainable test structure
+- Business logic assertions
 
----
+[View Project](https://github.com/rudikp/playwright-qa-automation-portfolio)
+[View Project](https://github.com/rudikp/portfolio-cypress.git)
+[View Project](https://github.com/rudikp/portfolio-selenium.git)
 
-## 🤝 Connect with Me
-- 📧 Email: [jobs.rudikp@gmail.com](mailto:jobs.rudikp@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/rudikp](https://linkedin.com/in/rudikp)
+## Connect
 
----
+[LinkedIn](https://www.linkedin.com/in/rudikurniaputra/)
